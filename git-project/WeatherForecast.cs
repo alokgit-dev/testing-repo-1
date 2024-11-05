@@ -1,4 +1,4 @@
-namespace git_project
+namespace git_api_2nd
 {
     public class WeatherForecast
     {
